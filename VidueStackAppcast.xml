@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Vidue Stack Changelog</title>
+        <link>https://pixlwave.github.io/VidueStackAppcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        
+		<item>
+		    <title>Version 1.0.1</title>
+		    <description>
+			    <![CDATA[
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>Vidue Stack can now find media after a show file has been moved.</li>
+			        </ul>
+			        <h3>Fixes</h3>
+			        <ul>
+			        	<li>After renumbering a cue, go no longer attempts to jump to the old cue number.</li>
+			        	<li>An alert is now shown when opening a show from Finder if there are unsaved changes.</li>
+			        	<li>Missing media now shows as missing and can be replaced.</li>
+			        	<li>Fixes a small bug when saving a show with missing media.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Mon, 01 Aug 2016 12:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.1.zip"
+		               sparkle:version="8"
+		               sparkle:shortVersionString="1.0.1"
+		               sparkle:dsaSignature="MC0CFQCxPAVy/J3rN2LzHlvl9O5VM148YwIUKio4xHXoTeFs/8ZdCmMiQyKu3OU="
+		               length="4145304"
+		               type="application/octet-stream" />
+		</item>
+
+				<item>
+		    <title>Version 1.0.2</title>
+		    <description>
+			    <![CDATA[
+				    <h3>New Features</h3>
+			        <ul>
+			        	<li>Typing a number before clicking the Add Cue button will create a cue with that cue number.</li>
+			        </ul>
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>The up and down arrow keys now initially select the cues before and after the current cue.</li>
+			        	<li>After changing a cue number the stack will now scroll to show it's new position.</li>
+			        	<li>The cue stack will no longer scroll to the current cue after duplicating or deleting a different cue.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Sun, 28 Aug 2016 16:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.2.zip"
+		               sparkle:version="9"
+		               sparkle:shortVersionString="1.0.2"
+		               sparkle:dsaSignature="MC0CFQDChoUU8C6TA4SUdQ9BWTKIOm55twIUdPNB/1qaxEqpGCmrTUm0Y9bwy7g="
+		               length="4147518"
+		               type="application/octet-stream" />
+		</item>
+		
+    </channel>
+</rss>

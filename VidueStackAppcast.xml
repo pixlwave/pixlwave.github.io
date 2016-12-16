@@ -5,7 +5,52 @@
         <link>https://pixlwave.github.io/VidueStackAppcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
-        
+		
+		<item>
+		    <title>Version 1.0.3</title>
+		    <description>
+			    <![CDATA[
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>Fixes an issue that may have prevented automatic updates in the future.</li>
+			        	<li>Other minor internal changes.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Fri, 16 Dec 2016 17:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.3.zip"
+		               sparkle:version="10"
+		               sparkle:shortVersionString="1.0.3"
+		               sparkle:dsaSignature="MC4CFQCLKh0ssN6Ison5Z/Yi/rMSS2WwzwIVALIAzVifGTnUYp4lGw5fzFdqsc7z"
+		               length="4147518"
+		               type="application/octet-stream" />
+		</item>
+
+		<item>
+		    <title>Version 1.0.2</title>
+		    <description>
+			    <![CDATA[
+				    <h3>New Features</h3>
+			        <ul>
+			        	<li>Typing a number before clicking the Add Cue button will create a cue with that cue number.</li>
+			        </ul>
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>The up and down arrow keys now initially select the cues before and after the current cue.</li>
+			        	<li>After changing a cue number the stack will now scroll to show it's new position.</li>
+			        	<li>The cue stack will no longer scroll to the current cue after duplicating or deleting a different cue.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Sun, 28 Aug 2016 16:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.2.zip"
+		               sparkle:version="9"
+		               sparkle:shortVersionString="1.0.2"
+		               sparkle:dsaSignature="MC0CFQDChoUU8C6TA4SUdQ9BWTKIOm55twIUdPNB/1qaxEqpGCmrTUm0Y9bwy7g="
+		               length="4147518"
+		               type="application/octet-stream" />
+		</item>
+		
 		<item>
 		    <title>Version 1.0.1</title>
 		    <description>
@@ -29,31 +74,6 @@
 		               sparkle:shortVersionString="1.0.1"
 		               sparkle:dsaSignature="MC0CFQCxPAVy/J3rN2LzHlvl9O5VM148YwIUKio4xHXoTeFs/8ZdCmMiQyKu3OU="
 		               length="4145304"
-		               type="application/octet-stream" />
-		</item>
-
-				<item>
-		    <title>Version 1.0.2</title>
-		    <description>
-			    <![CDATA[
-				    <h3>New Features</h3>
-			        <ul>
-			        	<li>Typing a number before clicking the Add Cue button will create a cue with that cue number.</li>
-			        </ul>
-				    <h3>Changes</h3>
-			        <ul>
-			        	<li>The up and down arrow keys now initially select the cues before and after the current cue.</li>
-			        	<li>After changing a cue number the stack will now scroll to show it's new position.</li>
-			        	<li>The cue stack will no longer scroll to the current cue after duplicating or deleting a different cue.</li>
-			        </ul>
-				]]>
-		    </description>
-		    <pubDate>Sun, 28 Aug 2016 16:00:00 +0000</pubDate>
-		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.2.zip"
-		               sparkle:version="9"
-		               sparkle:shortVersionString="1.0.2"
-		               sparkle:dsaSignature="MC0CFQDChoUU8C6TA4SUdQ9BWTKIOm55twIUdPNB/1qaxEqpGCmrTUm0Y9bwy7g="
-		               length="4147518"
 		               type="application/octet-stream" />
 		</item>
 		

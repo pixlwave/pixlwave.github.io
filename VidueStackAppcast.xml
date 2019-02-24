@@ -7,6 +7,34 @@
         <language>en</language>
 		
 		<item>
+		    <title>Version 1.0.4</title>
+		    <description>
+			    <![CDATA[
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>Fully adopt dark mode on macOS Mojave. Dark mode now requires macOS 10.14.</li>
+			        	<li>Improve the appearance of light mode on macOS Mojave.</li>
+			        	<li>Loading and saving of show files has been re-written.</li>
+			        	<li>Added a Go button to the Touch Bar.</li>
+			        	<li>Internal updates to the frameworks being used.</li>
+			        </ul>
+			        <h3>Fixes</h3>
+			        <ul>	
+						<li>App Nap is now correctly disabled.</li>
+			        	<li>It is no longer possible to open multiple copies of the patch window.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Fri, 16 Dec 2016 17:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.4.zip"
+		               sparkle:version="12"
+		               sparkle:shortVersionString="1.0.4"
+		               sparkle:dsaSignature="MCwCFDwd6Xm06MVM9QhenfDy8mI69sWpAhRpfma7YCY59dkFSU214Q5t78ZnjA=="
+		               length="6500055"
+		               type="application/octet-stream" />
+		</item>
+
+		<item>
 		    <title>Version 1.0.3</title>
 		    <description>
 			    <![CDATA[
@@ -22,7 +50,7 @@
 		               sparkle:version="10"
 		               sparkle:shortVersionString="1.0.3"
 		               sparkle:dsaSignature="MC4CFQCLKh0ssN6Ison5Z/Yi/rMSS2WwzwIVALIAzVifGTnUYp4lGw5fzFdqsc7z"
-		               length="4147518"
+		               length="4823116"
 		               type="application/octet-stream" />
 		</item>
 

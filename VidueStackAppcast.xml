@@ -5,7 +5,27 @@
         <link>https://pixlwave.github.io/VidueStackAppcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
-		
+
+		<item>
+		    <title>Version 1.0.5</title>
+		    <description>
+			    <![CDATA[
+				    <h3>Changes</h3>
+			        <ul>
+			        	<li>Compatibility updates for macOS 10.15.</li>
+			        	<li>Internal updates to the frameworks being used.</li>
+			        </ul>
+				]]>
+		    </description>
+		    <pubDate>Sat, 6 Oct 2019 12:00:00 +0000</pubDate>
+		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.5.zip"
+		               sparkle:version="14"
+		               sparkle:shortVersionString="1.0.5"
+		               sparkle:dsaSignature="MC4CFQCoWkZVxA6/G2JHvb4tUkSS1jRwmwIVAKlF9KKtOXZzM4Gqq6mVssL2aB9T"
+		               length="6251836"
+		               type="application/octet-stream" />
+		</item>
+
 		<item>
 		    <title>Version 1.0.4</title>
 		    <description>
@@ -25,7 +45,7 @@
 			        </ul>
 				]]>
 		    </description>
-		    <pubDate>Fri, 16 Dec 2016 17:00:00 +0000</pubDate>
+		    <pubDate>Sun, 24 Feb 2019 16:00:00 +0000</pubDate>
 		    <enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%201.0.4.zip"
 		               sparkle:version="12"
 		               sparkle:shortVersionString="1.0.4"

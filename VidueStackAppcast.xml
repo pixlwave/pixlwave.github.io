@@ -12,15 +12,15 @@
 				<![CDATA[
 					<h3>New Features</h3>
 					<ul>
-						<li>Vidue Stack is now ready for macOS Big Sur and Apple Silicon M1 Macs</li>
-						<li>Brand new rendering engine backed by Metal</li>
+						<li>Vidue Stack is now ready for macOS Big Sur and Apple Silicon M1 Macs.</li>
+						<li>Brand new rendering engine backed by Metal.</li>
 					</ul>
 					<h3>Changes</h3>
 					<ul>
-						<li>Modern look & feel</li>
-						<li>CREP is no longer supported as MagicQ can now speak OSC</li>
+						<li>Modern look & feel.</li>
+						<li>CREP is no longer supported as MagicQ can now speak OSC.</li>
 					</ul>
-					<b>Note: Version 2.0 requires macOS 11 Big Sur or later</b>
+					<b>Note: Version 2.0 requires macOS 11 Big Sur or later.</b>
 				]]>
 			</description>
 			<pubDate>Fri, 11 Dec 2020 16:00:00 +0000</pubDate>

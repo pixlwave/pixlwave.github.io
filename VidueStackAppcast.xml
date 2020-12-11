@@ -30,7 +30,7 @@
 					   sparkle:dsaSignature="MC4CFQC+Ol/exa3hxGAoNmynjSB9HXqqpQIVAJ6zl5hm7xNyNa3YsXbadaBFsX7Q"
 					   length="3153871"
 					   type="application/octet-stream" />
-			<sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+			<sparkle:minimumSystemVersion>10.16</sparkle:minimumSystemVersion>
 		</item>
 
 		<item>

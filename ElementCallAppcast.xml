@@ -3,6 +3,25 @@
     <channel>
         <title>Element Call</title>
         <item>
+            <title>Version 0.1.5</title>
+            <pubDate>Fri, 04 Mar 2022 18:35:06 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                    <h3>Changes</h3>
+                    <ul>
+                        <li>Version 0.1.5 is the same as 0.1.4, but will download any future updates from GitHub.</li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="https://github.com/pixlwave/Element-Call-macOS/releases/download/v0.1.5/Element.Call.0.1.5.zip"
+                       type="application/octet-stream" 
+                       length="2791293"
+                       sparkle:edSignature="HcpDNDTo8IDARJ4gfN+UG0NTTbwKq2OZ6V93SJ+VzUJDfyniPp1V604wMcS3wu52VQGyyHzEg8A8E1Aq+j4lDw=="/>
+        </item>
+        
+        <item>
             <title>Version 0.1.4</title>
             <pubDate>Sun, 27 Feb 2022 11:25:58 +0000</pubDate>
             <sparkle:version>7</sparkle:version>

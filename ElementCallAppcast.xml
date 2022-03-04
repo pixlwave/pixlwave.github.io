@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Element Call</title>
+        <item>
+            <title>Version 0.1.4</title>
+            <pubDate>Sun, 27 Feb 2022 11:25:58 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <description>
+                <![CDATA[
+                    <h3>Fixes</h3>
+                    <ul>
+                        <li>Screensharing has been disabled, which fixes an issue that occured when trying to get the camera feed.</li>
+                    </ul>
+                ]]>
+            </description>
+            <enclosure url="https://pixlwave.uk/files/Element%20Call%200.1.4.zip"
+                       type="application/octet-stream" 
+                       length="2791320"
+                       sparkle:edSignature="qUqchFETqaPMcSjqPKVZx6UpXNkVthWkMp7OF7wtssUVc/d7B80Ngk6CaOOYfrNCpdZiN3H9hmBaYm9KBdjEAg=="/>
+        </item>
+    </channel>
+</rss>

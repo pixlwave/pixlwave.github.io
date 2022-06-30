@@ -5,6 +5,26 @@
         <link>https://pixlwave.github.io/VidueStackAppcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+		
+		<item>
+			<title>Version 2.0.1</title>
+			<description>
+				<![CDATA[
+					<h3>Fixes</h3>
+					<ul>	
+						<li>Setting the output size now work correctly on macOS 12.4.</li>
+					</ul>
+				]]>
+			</description>
+			<pubDate>Thu, 30 June 2022 19:30:00 +0000</pubDate>
+			<enclosure url="https://pixlwave.github.io/vidue/Vidue%20Stack%202.0.1.zip"
+					   sparkle:version="19"
+					   sparkle:shortVersionString="2.0.1"
+					   sparkle:dsaSignature="MC0CFQCHIOIq0uuasIlyuvqIMw7qwk+RTQIUT/dqFNsf9PPJYZtWueIIJrx/wxM="
+					   length="3145757"
+					   type="application/octet-stream" />
+			<sparkle:minimumSystemVersion>10.16</sparkle:minimumSystemVersion>
+		</item>
 
 		<item>
 			<title>Version 2.0</title>
